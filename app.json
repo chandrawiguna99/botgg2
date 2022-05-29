@@ -1,0 +1,12 @@
+{
+  "name": "Marin-MD",
+  "description": "Multi Device WhatsApp Bot",
+  "repository": "https://github.com/FahriAdison/Marin-MD-V2",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
